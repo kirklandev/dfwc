@@ -354,6 +354,32 @@
 							</table>
 						</td>
 					</tr>
+                    <tr>
+						<td><img src='images/evan_kirkland.JPG' width='150px'></td>
+						<td valign='top'>
+							<h2>Callsign: Evan</h2>
+							<table cellpadding='5' cellspacing='3'>
+								<tr style='background:#F2F2F2;'>
+									<td width='150px'><b>About:</b></td><td>Evan enjoys both quads and fixed wing, almost exclusively FPV. He has been flying FPV for about 4 years and is still learning each day.</td>
+								</tr>
+								<tr style='background:#F2F2F2;'>
+									<td width='150px'><b>Favorite plane:</b></td><td> Multiplex Twinstar II (FPV)</td>
+								</tr>
+								<tr style='background:#F2F2F2;'>
+									<td><b>Quote:</b></td><td>"Telemetry recovered." - <i>FrSky Taranis</i></td>
+								</tr>
+								<tr style='background:#F2F2F2;'>
+									<td><b>Sponsors:</b></td><td></td>
+								</tr>
+								<tr style='background:#F2F2F2;'>
+									<td><b>YouTube</b></td><td><a href='https://www.youtube.com/channel/UCvvWf_waj25ZgVsSlw_F4PQ' target='blank'>Evan Kirkland</a></td>
+								</tr>																
+								<tr style='background:#F2F2F2;'>
+									<td><b>Instagram</b></td><td><a href='' target='blank'></a></td>
+								</tr>								 
+							</table>
+						</td>
+					</tr>
 				</table>
 			</td>
 			<td>
